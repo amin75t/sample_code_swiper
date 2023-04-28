@@ -1,0 +1,12 @@
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+    transition: linear 200ms ;
+    width: 1rem;
+    /* height: 12px; */
+    border-radius: 4px !important;
+    background-color: red !important;
+}
+
